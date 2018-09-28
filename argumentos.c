@@ -27,6 +27,7 @@ modificadores de printf()
   }
 /*Modificadores de printf()*/
 
+
 /*%c caracter
   %d numero o entero
   %s cadena o string*/
